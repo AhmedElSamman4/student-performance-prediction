@@ -9,7 +9,7 @@ A machine learning-based web application that predicts student academic performa
 1-Clone the repository:
 
 ```bash
-git clone https://github.com/mohamed1-abdeldayem/StudentPerformacne.git
+git clone https://github.com/AhmedElSamman4/student-performance-prediction.git
 cd StudentPerformacne
 ```
 
